@@ -10,3 +10,5 @@ MATLAB's current folder must contain this script file.
 - **Minimum MATLAB version:** R2018b  
 - **Required toolbox:** [Image Processing Toolbox](https://www.mathworks.com/products/image.html)  
 - **Recommended toolbox:** [Statistics and Machine Learning Toolbox](https://www.mathworks.com/products/statistics.html) *(for extensions)*
+
+![Script preview](assets/readme/preview.png)
